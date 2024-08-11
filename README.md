@@ -14,6 +14,10 @@
 
 ###
 
+<p align="left">You won't see many contributions here as most of my work is on set to private or hosted on private code repositories</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
