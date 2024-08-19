@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">You won't see many contributions here as most of my work is on set to private or hosted on private code repositories</p>
+<p align="left">You won't see many contributions here as most of my work is set to private or hosted on private code repositories</p>
 
 ###
 
