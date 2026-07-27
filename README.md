@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi</h1>
 
 ###
 
-<p align="left">My name is Jakub and I'm a fullstack software developer, from Poland.<br><br>Working in S&P Global / Carfax US</p>
+<p align="left">My name is Jakub and I'm a fullstack software developer, from Poland.<br><br>Working in Mobility Global / Carfax US</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">> Professional developer since 2019<br>> Mostly working on frontend using React, but sometimes also on the backend side<br>> I'm currently learning UI/UX designs and animations<br>> Goals: AWS certifications, CSS & JS animations mastery</p>
+<p align="left">> Professional developer since 2019<br>> Mostly fullstack developer (React + Kotlin/Java), but sometimes I also contribute to native mobile apps.<br>> I'm currently learning UI/UX designs and animations<br>> Goals: AWS certifications, CSS & JS animations mastery</p>
 
 ###
 
